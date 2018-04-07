@@ -25,6 +25,7 @@ section {
 
 .calculator {
   background-color: #EAEAEA;
+  border-top: solid 10px #EAEAEA;
   padding: 0 10;
 }
 .control-panel > button {
